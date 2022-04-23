@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayushhg
-- 👀 I’m interested in competitive programming and open-soucre contributions.
+- 👀 I’m interested in competitive programming and open-source contributions.
 - 🌱 I’m currently learning C++ DSA
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 Reach me at goel.ayush2003@gmail.com
